@@ -14,12 +14,6 @@ Halaman *onboarding* sangat penting untuk memperkenalkan pengguna pada fitur-fit
 * **Mudah Dikustomisasi**: Kode yang terstruktur dengan baik memungkinkan penyesuaian yang mudah untuk teks, gambar, warna, dan jumlah slide agar sesuai dengan merek Anda.  
 * **Transisi Halus**: Animasi yang lancar antar slide untuk pengalaman pengguna yang menyenangkan.
 
-## **Screenshot**
-
-\[TEMPATKAN *SCREENSHOT* PROYEK ANDA DI SINI\]
-
-*Sertakan beberapa gambar atau GIF yang menunjukkan tampilan dan nuansa halaman onboarding Anda di sini. Ini akan membantu pengguna lain memahami proyek Anda secara visual.*
-
 ## **Memulai**
 
 Ikuti langkah-langkah ini untuk mendapatkan salinan proyek yang berjalan di mesin lokal Anda untuk tujuan pengembangan dan pengujian.
@@ -31,7 +25,7 @@ Pastikan Anda telah menginstal **Flutter SDK** di sistem Anda. Jika belum, Anda 
 ### **Instalasi**
 
 1. *Clone* repositori ini ke mesin lokal Anda:  
-   git clone \[URL\_REPOSITORI\_ANDA\_DI\_SINI\]
+   git clone [\[URL\_REPOSITORI\_ANDA\_DI\_SINI\]](https://github.com/Feriawal/onboarding_pages.git)
 
 2. Navigasi ke direktori proyek:  
    cd onboarding\_page
@@ -81,6 +75,6 @@ Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detail le
 
 Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi:
 
-* **\[Nama Anda\]**  
-* **\[Alamat Email Anda\]**  
-* **\[Tautan Profil GitHub/LinkedIn Anda (Opsional)\]**
+* **\[Feri awal\]**  
+* **\[feriawal088@gmail.com\]**  
+* **\[(https://www.linkedin.com/in/feri-awal-2b13a9255/)\]**
